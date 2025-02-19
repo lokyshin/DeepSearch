@@ -44,9 +44,6 @@ git clone https://github.com/lokyshin/DeepSearch.git
 # 安装依赖
 pip install -r requirements.txt
 
-# 初始化配置（使用示例模板）
-cp .env.example .env
-
 # 启动开发服务器
 python app.py
 ```
@@ -75,4 +72,4 @@ Lokyshing Deep Search/
 ```
 
 ## 📄 开源协议
-MIT License(#https://ai.lokyshin.cn/c/LICENSE) - 自由修改和分发，需保留原许可声明
+MIT License - 自由修改和分发，需保留原许可声明
