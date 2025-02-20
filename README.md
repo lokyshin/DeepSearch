@@ -66,6 +66,7 @@ Lokyshing Deep Search/
 ├── app.py                                 # 主服务入口
 ├── static/                                # 前端资源
 │   ├── favicon.ico                        # 网站icon
+│   ├── apple-touch-icon.png               # 支持Apple设备的icon
 │   ├── logo.png                           # 网站Logo
 │   └── sensitive_words_lines.txt          # 敏感词列表（每个敏感词占一行））
 └── .env                                   # 环境配置（git忽略）
